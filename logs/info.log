@@ -1,0 +1,1237 @@
+ WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: efa84c75e48a7faae5494a120edda8d7).
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366356988028/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365946077349/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366365380740/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366424227933/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366353055805/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366189482096/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365925105675/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467009/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082652/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608364675076179/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340472956/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340476980/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365988155437/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366180958325/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366356988028/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365925105675/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366424227933/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366180958325/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366189482096/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366365380740/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467009/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366353055805/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082652/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340472956/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365988155437/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340476980/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608364675076179/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366180958325/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365925105675/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366424227933/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467009/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082652/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366189482096/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366365380740/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366353055805/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608364675076179/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340472956/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340476980/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365988155437/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365946077349/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365862326376/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366180958325/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366424227933/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467009/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365925105675/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366353055805/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340476980/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608364675076179/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366365380740/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365988155437/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082652/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366189482096/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365862326376/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340472956/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340472956/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366160117842/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366180958325/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366424227933/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761841/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365925105675/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366353055805/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365988155437/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366365380740/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366189482096/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082652/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608364675076179/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340476980/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143078418/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365862326376/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366424227933/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366340476980/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366180958325/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365988155437/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366365380740/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082652/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366353055805/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608364675076179/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365925105675/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366189482096/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366315049145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366231425097/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366193414145/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143344680/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366176895018/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319239178/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366374031401/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151467088/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366247940106/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569600/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365862326376/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155792436/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366243745832/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365988155437/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218580101/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365769785430/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082652/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365925105675/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365946077349/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365879099515/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608364675076179/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365946077349/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365946077349/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366180958325/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365946077349/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366218838077/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366323433552/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366084358216/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366155661384/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366021447725/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366189482096/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366239551519/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366336278699/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366285688994/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366269169765/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366390804492/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366130761851/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366151602268/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366172569712/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608365946077349/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366126305354/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366319243275/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
+WARNING:discord.http:We are being rate limited. POST https://discord.com/api/v10/channels/1276608366143082663/messages responded with 429. Retrying in 0.30 seconds.
+WARNING:discord.http:Global rate limit has been hit. Retrying in 0.30 seconds.
